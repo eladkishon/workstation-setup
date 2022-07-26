@@ -6,7 +6,6 @@ echo
 echo "Installing applications"
 
 # Utilities
-
 brew install --cask rectangle
 
 # Terminals
@@ -18,5 +17,9 @@ brew install --cask google-chrome
 # Communication
 brew install --cask slack
 brew install --cask zoom
+
+# Experience
+brew install --cask spotify
+brew install --cask todoist
 
 set -e
