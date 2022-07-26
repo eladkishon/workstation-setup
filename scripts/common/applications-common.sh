@@ -17,6 +17,7 @@ brew install --cask google-chrome
 # Communication
 brew install --cask slack
 brew install --cask zoom
+brew install --cask whatsapp
 
 # Experience
 brew install --cask spotify
