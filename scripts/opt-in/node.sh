@@ -1,7 +1,9 @@
 echo
 echo "Installing most recent version of NodeJS"
 
-brew install node
+brew install nvm
+nvm install latest
+npm i -g yarn
 
 echo
 echo "Installing global NodeJS Packages"
